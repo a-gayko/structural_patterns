@@ -1,0 +1,16 @@
+{
+    "name": "learn/patterns",
+    "authors": [
+        {
+            "name": "a-gayko",
+            "email": "a.gayko@itransition.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Patterns\\":"src"
+        }
+    }
+}
